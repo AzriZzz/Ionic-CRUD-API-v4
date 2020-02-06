@@ -1,0 +1,27 @@
+{
+  "students": [{
+      "id": 1,
+      "name": "Adam",
+      "age": "13",
+      "address": "Jalan Keramat 1199"
+    },
+    {
+      "id": 2,
+      "name": "Idris",
+      "age": "17",
+      "address": "Ampang Point"
+    },
+    {
+      "id": 3,
+      "name": "Nuh",
+      "age": "12",
+      "address": "Persiaran Subang"
+    },
+    {
+      "id": 4,
+      "name": "Hud",
+      "age": "14",
+      "address": "Jalan Plumbum"
+    }
+  ]
+}
